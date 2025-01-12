@@ -1,6 +1,6 @@
 ![GIF](./gif.gif)
 
-## :elf: 42 Piscine Student
+## :elf: [42 My Piscine](https://github.com/hugo4s/My-Piscine-42)
 
 <table>
 <tr>
