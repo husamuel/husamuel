@@ -10,8 +10,13 @@
 
 <td>
 
-| [Piscine Overview](https://github.com/pasqualerossi/42-Piscine/tree/main)  | [C00](https://github.com/pasqualerossi/42-Piscine/tree/main/C00%20-%20C07%20Piscine%20Projects/c00) | [C01](https://github.com/pasqualerossi/42-Piscine/tree/main/C00%20-%20C07%20Piscine%20Projects/c01) | [C02](https://github.com/pasqualerossi/42-Piscine/tree/main/C00%20-%20C07%20Piscine%20Projects/c02) | [C03](https://github.com/pasqualerossi/42-Piscine/tree/main/C00%20-%20C07%20Piscine%20Projects/c03) | [C04](https://github.com/pasqualerossi/42-Piscine/tree/main/C00%20-%20C07%20Piscine%20Projects/c04) | [C05](https://github.com/pasqualerossi/42-Piscine/tree/main/C00%20-%20C07%20Piscine%20Projects/c05) | [C06](https://github.com/pasqualerossi/42-Piscine/tree/main/C00%20-%20C07%20Piscine%20Projects/c06) | [C07](https://github.com/pasqualerossi/42-Piscine/tree/main/C00%20-%20C07%20Piscine%20Projects/c07) |
-|--|--|--|--|--|--|--|--|--|
+| Shell00   | Shell01   | C00      | C01      | C02      | C03      | C04      | C05      | C06      | C07      | C08      | C09      | C11      | BSQ      | Rush00    |
+|-----------|-----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|-----------|
+| ✅ 100%   | ✅ 55%    | ✅ 85%   | ✅ 100%  | ✅ 55%   | ✅ 100%  | ✅ 77%   | ✅ 80%   | ✅ 100%  | ✅ 60%   | ✅ 100%  | ✅ 100%  | ✅ 55%   | ❌ 0%    | ✅ 120%  |
+
+
+
+
 
 </td> </tr> </table>
 
@@ -23,8 +28,10 @@
 
 <td>
 
-| [Piscine Exam Overview](https://github.com/pasqualerossi/42-Piscine/tree/main/42%20Piscine%20Exam) | [Level 0](https://github.com/pasqualerossi/42-Piscine/tree/main/42%20Piscine%20Exam/Exam%20Answers/Level%200) | [Level 1](https://github.com/pasqualerossi/42-Piscine/tree/main/42%20Piscine%20Exam/Exam%20Answers/Level%201) | [Level 2](https://github.com/pasqualerossi/42-Piscine/tree/main/42%20Piscine%20Exam/Exam%20Answers/Level%202) | [Level 3](https://github.com/pasqualerossi/42-Piscine/tree/main/42%20Piscine%20Exam/Exam%20Answers/Level%203) |
-|--|--|--|--|--|
+| Exam00    | Exam01    | Exam02    | Final Exam |
+|-----------|-----------|-----------|------------|
+| ✅ 50%    | ❌ 20%    | ❌ 20%    | ✅ 66%     |
+
 
 </td> </tr> </table>
 
