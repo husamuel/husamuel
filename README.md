@@ -1,13 +1,29 @@
-![GIF](./gif.gif)
+<table border="0">
+<tr>
+<td width="100%">
 
-## :elf: [42 My Piscine](https://github.com/hugo4s/My-Piscine-42)
+# Hello my name is Hugo 👋
+
+### About me:
+- 📚 I am studying at 42 Porto, after completing the Piscine, mainly in C, C++, Linux, Shell Scripts and Network
+- 🎯 My areas of focus are Cyber ​​Security and Network Management
+- 🎮 Chess strategist | 🏋️ Fitness enthusiast 
+
+</td>
+<td width="100%">
+<img src="./gif.gif" width="350px">
+</td>
+</tr>
+</table>
+
+## 👨‍🎓 [42 My Piscine](https://github.com/hugo4s/My-Piscine-42)
 
 <table>
 <tr>
-<th align="left"> &nbsp; Piscine Modules</th>
+<th align="left">Piscine Modules</th>
+
 </tr>
 <tr>
-
 <td>
 
 | Shell00   | Shell01   | C00      | C01      | C02      | C03      | C04      | C05      | C06      | C07      | C08      | C09      | C11      | [BSQ](https://github.com/hugo4s/BSQ)      | Rush00    |
@@ -37,7 +53,7 @@
 
 <br>
 
-## :vampire: 42 Common Core Student
+## 👨‍🏫 42 Common Core Student
 
 <table>
 <tr>
@@ -61,10 +77,32 @@
 
 <tr>
 
+## 🌐 Networking Management
+
+<tr>
+  <th align="left">My Projects</th>
+</tr>
+<tr>
+  <td>
+    | P1   | P2   | P3   | P4   | P5   |
+    |-------|-------|-------|-------|-------|
+    | ✅ 100% | ✅ 55% | ✅ 85% | ✅ 100% | ✅ 55% |
+  </td>
+</tr>
 
 
-</tr> </table>
+## 🛡️ Web Security
 
+<tr>
+  <th align="left">My Projects</th>
+</tr>
+<tr>
+  <td>
+    | P1   | P2   | P3   | P4   | P5   |
+    |-------|-------|-------|-------|-------|
+    | ✅ 100% | ✅ 55% | ✅ 85% | ✅ 100% | ✅ 55% |
+  </td>
+</tr>
 <br>
 
 ![github-user-contribution](https://user-images.githubusercontent.com/58959408/157782696-8bc9ca49-ca61-4ab5-8b83-49c4e76c1a8f.svg)
