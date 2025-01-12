@@ -10,7 +10,7 @@
 
 <td>
 
-| Shell00   | Shell01   | C00      | C01      | C02      | C03      | C04      | C05      | C06      | C07      | C08      | C09      | C11      | BSQ      | Rush00    |
+| Shell00   | Shell01   | C00      | C01      | C02      | C03      | C04      | C05      | C06      | C07      | C08      | C09      | C11      | [BSQ](https://github.com/hugo4s/BSQ)      | Rush00    |
 |-----------|-----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|-----------|
 | ✅ 100%   | ✅ 55%    | ✅ 85%   | ✅ 100%  | ✅ 55%   | ✅ 100%  | ✅ 77%   | ✅ 80%   | ✅ 100%  | ✅ 60%   | ✅ 100%  | ✅ 100%  | ✅ 55%   | ❌ 0%    | ✅ 120%  |
 
@@ -47,9 +47,9 @@
 
 <td>
 
-| Guide | Rank 0  | Rank 1 | Rank 2  | Rank 3 | Rank 4 | Rank 5 | Rank 6 | 
-| ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
-| [Common Core Overview](https://github.com/pasqualerossi/42-School-Guide) | [Libft](https://github.com/pasqualerossi/Libft)  | [Born2BeRoot](https://github.com/pasqualerossi/Born2BeRoot-Guide)  | [MiniTalk](https://github.com/pasqualerossi/MiniTalk)  | [Philosophers](https://github.com/pasqualerossi/Philosophers)  | [NetPractice](https://github.com/pasqualerossi/NetPractice)  | [Inception](https://github.com/pasqualerossi/Inception)  | [Transcendence](https://github.com/pasqualerossi/42_Transcendence)  | |
+| Rank 0  | Rank 1 | Rank 2  | Rank 3 | Rank 4 | Rank 5 | Rank 6 | 
+| ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
+| [Libft](https://github.com/pasqualerossi/Libft)  | [Born2BeRoot](https://github.com/pasqualerossi/Born2BeRoot-Guide)  | [MiniTalk](https://github.com/pasqualerossi/MiniTalk)  | [Philosophers](https://github.com/pasqualerossi/Philosophers)  | [NetPractice](https://github.com/pasqualerossi/NetPractice)  | [Inception](https://github.com/pasqualerossi/Inception)  | [Transcendence](https://github.com/pasqualerossi/42_Transcendence)  | |
 | |        | [Printf](https://github.com/pasqualerossi/Printf)  | [So_Long](https://github.com/pasqualerossi/So_Long)  | [Minishell](https://github.com/pasqualerossi/Minishell)  | [Cub3D](https://github.com/pasqualerossi/Cub3D)  | [IRC](https://github.com/pasqualerossi/IRC) |  |
 | |        | [Get_Next_Line](https://github.com/pasqualerossi/Get_Next_Line)  | [Push_Swap](https://github.com/pasqualerossi/Push_Swap)  |  | [C++ Modules](https://github.com/pasqualerossi/C-Plus-Plus)  |  |
 
