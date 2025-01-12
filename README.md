@@ -49,11 +49,11 @@
 
 | Rank 0      | Rank 1                                 | Rank 2                                        | Rank 3                               | Rank 4                                    | Rank 5                                    | Rank 6                                    |
 |-------------|---------------------------------------|-----------------------------------------------|---------------------------------------|-------------------------------------------|--------------------------------------------|--------------------------------------------|
-| Libft        | Born2BeRoot                            | MiniTalk                                      | Philosophers                          | NetPractice                             | Inception                                | Transcendence                            |
+| [Libft](https://github.com/hugo4s/libft)        | Born2BeRoot                            | [MiniTalk](https://github.com/hugo4s/minitalk)                                      | Philosophers                          | NetPractice                             | Inception                                | Transcendence                            |
 | ✅ 125%         |   ✅ 100%                | ✅ 111%                                   |                                |                                     |                                      |                                     |
-|                  | Ft_printf                                       | Push_Swap                               | Minishell                                | Cub3D                                     | IRC                                       |
+|                  | [Ft_printf](https://github.com/hugo4s/ft_printf)         | [Push_Swap](https://github.com/hugo4s/push_swap)               | Minishell                                | Cub3D                                     | IRC                                       |
 |                              | ✅ 100%                      | ✅ 84%                                  |                                      |                                      |                                        |
-|               | Get_Next_Line                    | Fdf                        |  Exam Rank 02    | C++ Modules                              |
+|               | [Get_Next_Line](https://github.com/hugo4s/get_next_line)                    | [Fdf](https://github.com/hugo4s/Fdf)           |  Exam Rank 02    | C++ Modules                              |
 |        | ✅ 125%                   | ✅ 95%                                   | ✅ 100%                                     |                                   | **In Progress**                              |
 </td>
 
