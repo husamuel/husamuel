@@ -79,30 +79,21 @@
 
 ## 🌐 Networking Management
 
-<tr>
-  <th align="left">My Projects</th>
-</tr>
-<tr>
-  <td>
-    | P1   | P2   | P3   | P4   | P5   |
-    |-------|-------|-------|-------|-------|
-    | ✅ 100% | ✅ 55% | ✅ 85% | ✅ 100% | ✅ 55% |
-  </td>
-</tr>
+### My Projects
+| [Setting up a Simple LAN](https://github.com/hugo4s/Basic-Small-Office-Network)   | P2       | P3       | P4       | P5       |
+|----------|----------|----------|----------|----------|
+| ✅ 100%  | ✅ 55%   | ✅ 85%   | ✅ 100%  | ✅ 55%   |
 
+---
 
 ## 🛡️ Web Security
 
-<tr>
-  <th align="left">My Projects</th>
-</tr>
-<tr>
-  <td>
-    | P1   | P2   | P3   | P4   | P5   |
-    |-------|-------|-------|-------|-------|
-    | ✅ 100% | ✅ 55% | ✅ 85% | ✅ 100% | ✅ 55% |
-  </td>
-</tr>
-<br>
+### My Projects
+| P1       | P2       | P3       | P4       | P5       |
+|----------|----------|----------|----------|----------|
+| ✅ 100%  | ✅ 55%   | ✅ 85%   | ✅ 100%  | ✅ 55%   |
+
+---
 
 ![github-user-contribution](https://user-images.githubusercontent.com/58959408/157782696-8bc9ca49-ca61-4ab5-8b83-49c4e76c1a8f.svg)
+
