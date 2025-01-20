@@ -80,7 +80,7 @@
 ## 🌐 Networking Management
 
 ### My Projects
-| [Setting up a Simple LAN](https://github.com/hugo4s/Basic-Small-Office-Network)   | [Subnetting](https://github.com/hugo4s/Subnetting-and-Communicating-with-a-Router)       | P3       | P4       | P5       |
+| [Simple LAN](https://github.com/hugo4s/Basic-Small-Office-Network)   | [Subnetting](https://github.com/hugo4s/Subnetting-and-Communicating-with-a-Router)       | P3       | P4       | P5       |
 |----------|----------|----------|----------|----------|
 | ✅ 100%  | ✅ 55%   | ✅ 85%   | ✅ 100%  | ✅ 55%   |
 
