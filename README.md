@@ -70,7 +70,7 @@
 |                  | [Ft_printf](https://github.com/hugo4s/ft_printf)         | [Push_Swap](https://github.com/hugo4s/push_swap)               | [Minishell](https://github.com/hugo4s/Minishell) | Cub3D                                     | IRC                                       |
 |                              | ✅ 100%                      | ✅ 84%                                  |                                      |                                      |                                        |
 |               | [Get_Next_Line](https://github.com/hugo4s/get_next_line)                    | [Fdf](https://github.com/hugo4s/Fdf)           |  Exam Rank 03    | C++ Modules                              |
-|        | ✅ 125%                   | ✅ 95%                                   | ✅ 100%                                     |                                   | **In Progress**                              |
+|        | ✅ 125%                   | ✅ 95%                                   | ✅ 100%                                     |                                   |                               |
 </td>
 
 <table>
