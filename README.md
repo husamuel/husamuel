@@ -5,7 +5,7 @@
 # Hello my name is Hugo 👋
 
 ### About me:
-- 📚 I am studying at 42 Porto, after completing the Piscine, mainly in C, C++, Linux, Shell Scripts and Network
+- 📚 I am studying at 42 Porto, after completing the Piscine, focusing mainly in C, C++, Linux, Shell Scripts and Network
 - 🎯 My areas of focus are Cyber ​​Security and Network Management
 - 🎮 Chess strategist | 🏋️ Fitness enthusiast 
 
