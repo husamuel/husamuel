@@ -69,7 +69,7 @@
 | ✅ 125%         |   ✅ 100%                | ✅ 111%                                   |                                |                                     |                                      |                                     |
 |                  | [Ft_printf](https://github.com/hugo4s/ft_printf)         | [Push_Swap](https://github.com/hugo4s/push_swap)               | [Minishell](https://github.com/hugo4s/Minishell) | Cub3D                                     | IRC                                       |
 |                              | ✅ 100%                      | ✅ 84%                                  |                                      |                                      |                                        |
-|               | [Get_Next_Line](https://github.com/hugo4s/get_next_line)                    | [Fdf](https://github.com/hugo4s/Fdf)           |  Exam Rank 02    | C++ Modules                              |
+|               | [Get_Next_Line](https://github.com/hugo4s/get_next_line)                    | [Fdf](https://github.com/hugo4s/Fdf)           |  Exam Rank 03    | C++ Modules                              |
 |        | ✅ 125%                   | ✅ 95%                                   | ✅ 100%                                     |                                   | **In Progress**                              |
 </td>
 
@@ -79,19 +79,15 @@
 
 ## 🌐 Networking Management
 
-### My Projects
 | [Simple LAN](https://github.com/hugo4s/Basic-Small-Office-Network)   | [Subnetting](https://github.com/hugo4s/Subnetting-and-Communicating-with-a-Router)       | P3       | P4       | P5       |
 |----------|----------|----------|----------|----------|
-| ✅ 100%  | ✅ 55%   | ✅ 85%   | ✅ 100%  | ✅ 55%   |
 
 ---
 
 ## 🛡️ Web Security
 
-### My Projects
 | P1       | P2       | P3       | P4       | P5       |
 |----------|----------|----------|----------|----------|
-| ✅ 100%  | ✅ 55%   | ✅ 85%   | ✅ 100%  | ✅ 55%   |
 
 ---
 
