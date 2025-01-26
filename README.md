@@ -79,7 +79,7 @@
 
 ## 🌐 Networking Management
 
-| [Simple LAN](https://github.com/hugo4s/Basic-Small-Office-Network)   | [Subnetting](https://github.com/hugo4s/Subnetting-and-Communicating-with-a-Router)       | P3       | P4       | P5       |
+| [Basic LAN Setup](https://github.com/hugo4s/Basic-Small-Office-Network)   | [Subnetting and Routing](https://github.com/hugo4s/Subnetting-and-Communicating-with-a-Router)  | [[VLANs and Inter VLAN Routing](https://github.com/hugo4s/VLANs-and-Inter-VLAN-Routing)](https://github.com/hugo4s/VLANs-and-Inter-VLAN-Routing) | P4       | P5       |
 |----------|----------|----------|----------|----------|
 
 ---
