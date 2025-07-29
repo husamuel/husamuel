@@ -12,7 +12,7 @@
 
 </td>
 <td width="100%">
-<img src="./chess.gif" width="350px">
+<img src="./board.gif" width="350px">
 </td>
 </tr>
 </table>
