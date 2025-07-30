@@ -57,6 +57,16 @@
 
 ---
 
+## ☁️ Additional AWS & Terraform Projects
+
+| Project | Description | Tech Stack |
+|---------|-------------|------------|
+| [Cloud Resume Challenge](https://github.com/husamuel/The-Cloud-Resume-Challenge-AWS) | (AWS)	Resume site with S3, Lambda, API Gateway, and full CI/CD. | Gateway, and full CI/CD.	AWS, Terraform, SAM, GitHub Actions |
+| [Dev Env with Terraform](https://github.com/husamuel/AWS-Dev-Environment-with-Terraform) | 	Automates a full AWS dev environment with SSH access and Docker. | AWS, Terraform, EC2, SSH |
+| [Terraform + Ansible Infra](https://github.com/husamuel/Infrastructure-with-Terraform-and-Ansible) | 	Provision EC2 with Terraform and configure Nginx via Ansible. | Terraform, AWS, Ansible, EC2 |
+
+---
+
 ## 👨‍🎓 42 Porto Journey
 
 | Project | Description | Status |
