@@ -23,7 +23,7 @@
 
 <table>
 <tr>
-<th align="left">Cloud & DevOps Projects</th>
+<th align="left">💻 Cloud & DevOps Projects</th>
 </tr>
 <tr>
 <td>
@@ -34,6 +34,7 @@
 | [Born2BeRoot](https://github.com/hugo4s/born2beroot) | Configured a secure virtual machine with system administration and monitoring. | Linux, Bash, VirtualBox |
 | [Automated Infrastructure Setup](https://github.com/hugo4s/automated-infra) | Automated AWS infrastructure provisioning and server configuration. | AWS EC2, Terraform, Ansible |
 | [Minishell](https://github.com/hugo4s/minishell) | Built a custom shell with command execution and process management. | C, Linux, Shell |
+| [NodePipeline](https://github.com/husamuel/NodePipeline/tree/main) | CI/CD pipeline automating test, lint, and deploy with GitHub Actions and Docker | GitHub Actions, CI/CD, Docker |
 | Cybersecurity Club @ 42 Porto | Founded a 35+ member community, hosting 5 industry talks and 15+ learning sessions. | Community Leadership, Ethical Hacking |
 
 </td>
