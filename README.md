@@ -43,21 +43,6 @@
 
 ---
 
-## ⚙️ GitHub Actions & CI/CD Projects
-
-| Project | Description | Stack |
-|--------|-------------|--------|
-| [hello-github-actions](https://github.com/hugo4s/hello-github-actions) | Create a custom GitHub Action and use it in a workflow. | JavaScript, GitHub Actions |
-| [ci-node-test](https://github.com/husamuel/skills-test-with-actions) | Build and test a Node.js application using Continuous Integration. | Node.js, GitHub Actions |
-| [docker-publish-action](https://github.com/husamuel/skills-publish-packages) | Use GitHub Actions to build and publish Docker images to GitHub Packages. | Docker, GHCR, GitHub Actions |
-| [azure-deploy-action](https://github.com/husamuel/skills-deploy-to-azure) | Create a deployment pipeline for Microsoft Azure using GitHub Actions. | Azure, Docker, GitHub Actions |
-| [write-js-action](https://github.com/husamuel/skills-write-javascript-actions) | Build a fully custom JavaScript GitHub Action from scratch. | JavaScript, GitHub Actions |
-| [reusable-workflows](https://github.com/husamuel/skills-reusable-workflows) | Create reusable workflows that can be used across repositories. | GitHub Actions, YAML |
-
-> These projects are part of GitHub's official "Automate workflows with GitHub Actions" learning course.
-
----
-
 ## ☁️ Additional AWS & Terraform Projects
 
 | Project | Description | Tech Stack |
