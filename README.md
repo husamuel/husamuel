@@ -32,10 +32,11 @@
 |---------|-------------|------------|
 | [AWS Cloud Resume Challenge](https://github.com/hugo4s/aws-cloud-resume) | Built a full-stack resume site with automated CI/CD deployment. | AWS (S3, Lambda, API Gateway, DynamoDB), Terraform, GitHub Actions |
 | [Born2BeRoot](https://github.com/hugo4s/born2beroot) | Configured a secure virtual machine with system administration and monitoring. | Linux, Bash, VirtualBox |
-| [Automated Infrastructure Setup](https://github.com/hugo4s/automated-infra) | Automated AWS infrastructure provisioning and server configuration. | AWS EC2, Terraform, Ansible |
+| [SecureCheck-Linux](https://github.com/husamuel/SecureCheck-Linux) | Developed a Linux security auditing tool that performs vulnerability checks and generates Markdown reports, with CI/CD automation and email reporting. | Bash, Python, GitHub Actions, chkrootkit |
 | [Minishell](https://github.com/hugo4s/minishell) | Built a custom shell with command execution and process management. | C, Linux, Shell |
 | [NodePipeline](https://github.com/husamuel/NodePipeline/tree/main) | CI/CD pipeline automating test, lint, and deploy with GitHub Actions and Docker | GitHub Actions, CI/CD, Docker |
-| Cybersecurity Club @ 42 Porto | Founded a 35+ member community, hosting 5 industry talks and 15+ learning sessions. | Community Leadership, Ethical Hacking |
+| Cybersecurity Club @ 42 Porto | Founded a 35+ member community, hosting 5 industry talks and 15+ learning sessions. | Community Leadership, Cybersecurity |
+
 
 </td>
 </tr>
