@@ -22,11 +22,8 @@
 ## 🌟 Key Projects
 
 <table>
+
 <tr>
-<th align="left">💻 Cloud & DevOps Projects</th>
-</tr>
-<tr>
-<td>
 
 | Project | Description | Tech Stack |
 |---------|-------------|------------|
@@ -38,7 +35,6 @@
 | Cybersecurity Club @ 42 Porto | Founded a 35+ member community, hosting 5 industry talks and 15+ learning sessions. | Community Leadership, Cybersecurity |
 
 
-</td>
 </tr>
 </table>
 
