@@ -27,9 +27,9 @@
 
 | Project | Description | Tech Stack |
 |---------|-------------|------------|
-| [AWS Cloud Resume Challenge](https://github.com/hugo4s/aws-cloud-resume) | Built a full-stack resume site with automated CI/CD deployment. | AWS (S3, Lambda, API Gateway, DynamoDB), Terraform, GitHub Actions |
-| [Born2BeRoot](https://github.com/hugo4s/born2beroot) | Configured a secure virtual machine with system administration and monitoring. | Linux, Bash, VirtualBox |
-| [SecureCheck-Linux](https://github.com/husamuel/SecureCheck-Linux) | Developed a Linux security auditing tool that performs vulnerability checks and generates Markdown reports, with CI/CD automation and email reporting. | Bash, Python, GitHub Actions, chkrootkit |
+| [Inception](https://github.com/husamuel/Inception) | Built a secure, containerized infrastructure with Nginx, WordPress, MariaDB, and Redis using Docker Compose. | Docker, Nginx, WordPress, MariaDB, Redis, Shell Script |
+| [Born2BeRoot](https://github.com/hugo4s/born2beroot) | Configured a secure virtual machine with system administration and monitoring. | Linux, Shell Script, VirtualBox |
+| [SecureCheck-Linux](https://github.com/husamuel/SecureCheck-Linux) | Developed a Linux security auditing tool that performs vulnerability checks and generates Markdown reports, with CI/CD automation and email reporting. | Shell Script, Python, GitHub Actions, chkrootkit |
 | [Minishell](https://github.com/hugo4s/minishell) | Built a custom shell with command execution and process management. | C, Linux, Shell |
 | [NodePipeline](https://github.com/husamuel/NodePipeline/tree/main) | CI/CD pipeline automating test, lint, and deploy with GitHub Actions and Docker | GitHub Actions, CI/CD, Docker |
 | Cybersecurity Club @ 42 Porto | Founded a 35+ member community, hosting 5 industry talks and 15+ learning sessions. | Community Leadership, Cybersecurity |
