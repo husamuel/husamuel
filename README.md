@@ -5,8 +5,8 @@
 # Hey, I'm Hugo! 👋
 
 ### About Me:
-- ☁️ Aspiring **Cloud & DevOps Engineer** with a focus on AWS, Terraform, and cloud security  
-- 📚 Studying at **42 Porto**, mastering Linux, C, C++, and DevOps tools  
+- ⚙️ Aspiring DevOps & Infrastructure Engineer specializing in automation, AWS, and Terraform
+- 📚 Studying at 42 Porto, mastering C, C++, Linux systems, Docker, and low-level debugging with GDB
 - ♟️ Chess strategist, always planning three moves ahead  
 - 🛡️ Founder of the **Cybersecurity Club @ 42 Porto**  
 
