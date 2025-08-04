@@ -5,7 +5,7 @@
 # Hey, I'm Hugo! 👋
 
 ### About Me:
-⚙️ Linux-focused engineer skilled in automation, system security, infrastructure
+- ⚙️ Linux-focused engineer skilled in automation, system security, infrastructure
 - 📚 Studying at 42 Porto, mastering C, C++, Linux systems, Docker, and low-level debugging with GDB
 - ♟️ Chess strategist, always planning three moves ahead  
 - 🛡️ Founder of the **Cybersecurity Club @ 42 Porto**  
