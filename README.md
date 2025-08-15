@@ -56,7 +56,7 @@
 |---------|-------------|--------|
 | [Cub3D](https://github.com/hugo4s/cub3d) | 3D raycasting game inspired by Wolfenstein 3D. | ✅ Completed |
 | [Philosophers](https://github.com/hugo4s/philosophers) | Solved the dining philosophers problem with multi-threading. | ✅ Completed |
-| [C++ Modules 0-4](https://github.com/hugo4s/cpp-modules) | Mastered C++ fundamentals through modular exercises. | ✅ Completed |
+| [C++ Modules](https://github.com/husamuel/cpp_modules) | Mastered C++ fundamentals through modular exercises. | ✅ Completed |
 | [MiniTalk](https://github.com/hugo4s/minitalk) | Client-server communication using signals. | ✅ Completed |
 
 ---
