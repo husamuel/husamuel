@@ -90,22 +90,22 @@
 
 | Project       | Description                                                                 | Tech Stack                                   | Status         |
 |---------------|-----------------------------------------------------------------------------|----------------------------------------------|----------------|
-| [Libft](https://github.com/hugo4s/libft) | Created a custom C library with essential functions for string manipulation, memory management, and more. | C | ✅ Completed |
-| [Ft_printf](https://github.com/hugo4s/ft_printf) | Implemented a simplified version of the printf function with custom format specifiers. | C | ✅ Completed |
-| [Get_next_line](https://github.com/hugo4s/get_next_line) | Developed a function to read lines from a file descriptor efficiently. | C | ✅ Completed |
+| [Libft](https://github.com/husamuel/libft) | Created a custom C library with essential functions for string manipulation, memory management, and more. | C | ✅ Completed |
+| [Ft_printf](https://github.com/husamuel/ft_printf) | Implemented a simplified version of the printf function with custom format specifiers. | C | ✅ Completed |
+| [Get_next_line](https://github.com/husamuel/get_next_line) | Developed a function to read lines from a file descriptor efficiently. | C | ✅ Completed |
 | [Born2BeRoot](https://github.com/husamuel/Born2BeRoot-Linux-System-Administration) | Configured a secure Linux VM, managing users, permissions, services, and monitoring. | Linux, Shell Script, VirtualBox | ✅ Completed |
-| [Push_swap](https://github.com/hugo4s/push_swap) | Developed an algorithm to sort a stack of integers using a limited set of operations. | C | ✅ Completed |
-| [Fdf](https://github.com/hugo4s/fdf) | Created a wireframe model viewer for 3D height maps using MinilibX. | C, MinilibX, Linux | ✅ Completed |
-| [Minitalk](https://github.com/hugo4s/minitalk) | Client-server communication using signals. | C, Linux | ✅ Completed |
-| [Minishell](https://github.com/hugo4s/minishell) | Built a custom shell with command execution and process management. | C, Linux, Shell | ✅ Completed |
-| [Philosophers](https://github.com/hugo4s/philosophers) | Solved the dining philosophers problem with multi-threading. | C, Linux, Threads | ✅ Completed |
-| [Cub3D](https://github.com/hugo4s/cub3d) | 3D raycasting game inspired by Wolfenstein 3D. | C, MinilibX, Linux | ✅ Completed |
-| [Netpractice](https://github.com/hugo4s/netpractice) | Configured network settings and solved networking challenges. | Networking | ✅ Completed |
+| [Push_swap](https://github.com/husamuel/push_swap) | Developed an algorithm to sort a stack of integers using a limited set of operations. | C | ✅ Completed |
+| [Fdf](https://github.com/husamuel/fdf) | Created a wireframe model viewer for 3D height maps using MinilibX. | C, MinilibX, Linux | ✅ Completed |
+| [Minitalk](https://github.com/husamuel/minitalk) | Client-server communication using signals. | C, Linux | ✅ Completed |
+| [Minishell](https://github.com/husamuel/minishell) | Built a custom shell with command execution and process management. | C, Linux, Shell | ✅ Completed |
+| [Philosophers](https://github.com/husamuel/philosophers) | Solved the dining philosophers problem with multi-threading. | C, Linux, Threads | ✅ Completed |
+| [Cub3D](https://github.com/husamuel/cub3d) | 3D raycasting game inspired by Wolfenstein 3D. | C, MinilibX, Linux | ✅ Completed |
+| [Netpractice](https://github.com/husamuel/netpractice) | Configured network settings and solved networking challenges. | Networking | ✅ Completed |
 | [C++ Modules 0-4](https://github.com/husamuel/cpp_modules) | Mastered C++ fundamentals through modular exercises (modules 0-4). | C++ | ✅ Completed |
 | [Inception](https://github.com/husamuel/Inception) | Deployed a secure, containerized infrastructure with Nginx, WordPress, MariaDB, and Redis using Docker Compose. | Docker, Nginx, WordPress, MariaDB, Redis, Shell Script | ✅ Completed |
-| [Webserv](https://github.com/hugo4s/webserv) | Developed a custom HTTP server with CGI support and configuration parsing. | C++, HTTP, Linux | ⏳ Pending |
+| [Webserv](https://github.com/husamuel/webserv) | Developed a custom HTTP server with CGI support and configuration parsing. | C++, HTTP, Linux | ⏳ Pending |
 | [C++ Modules 5-9](https://github.com/husamuel/cpp_modules) | Advanced C++ concepts through modular exercises (modules 5-9). | C++ | ⏳ Pending |
-| [Ft_transcendence](https://github.com/hugo4s/transcendence) | Created a real-time multiplayer web-based Pong game with user authentication and chat. | JavaScript, Node.js, PostgreSQL, Docker | ⏳ Pending |
+| [Ft_transcendence](https://github.com/husamuel/transcendence) | Created a real-time multiplayer web-based Pong game with user authentication and chat. | JavaScript, Node.js, PostgreSQL, Docker | ⏳ Pending |
 
 ---
 
