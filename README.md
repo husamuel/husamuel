@@ -100,7 +100,7 @@
 | [Minishell](https://github.com/husamuel/minishell) | Built a custom shell with command execution and process management. | C, Linux, Shell | ✅ Completed |
 | [Philosophers](https://github.com/husamuel/philosophers) | Solved the dining philosophers problem with multi-threading. | C, Linux, Threads | ✅ Completed |
 | [Cub3D](https://github.com/husamuel/cub3d) | 3D raycasting game inspired by Wolfenstein 3D. | C, MinilibX, Linux | ✅ Completed |
-| [Netpractice](https://github.com/husamuel/netpractice) | Configured network settings and solved networking challenges. | Networking | ✅ Completed |
+| [Netpractice](https://github.com/husamuel/Netpractise) | Configured network settings and solved networking challenges. | Networking | ✅ Completed |
 | [C++ Modules 0-4](https://github.com/husamuel/cpp_modules) | Mastered C++ fundamentals through modular exercises (modules 0-4). | C++ | ✅ Completed |
 | [Inception](https://github.com/husamuel/Inception) | Deployed a secure, containerized infrastructure with Nginx, WordPress, MariaDB, and Redis using Docker Compose. | Docker, Nginx, WordPress, MariaDB, Redis, Shell Script | ✅ Completed |
 | [Webserv](https://github.com/husamuel/webserv) | Developed a custom HTTP server with CGI support and configuration parsing. | C++, HTTP, Linux | ⏳ Pending |
