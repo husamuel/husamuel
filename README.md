@@ -5,7 +5,7 @@
 # Hey, I'm Hugo! 👋
 
 ### About Me:
-- ⚙️ Security engineer skilled in automation, system security, and infrastructure
+- ⚙️ Infrastructure Engineer skilled in automation and system security
 - 📚 Studying at 42 Porto, mastering C, C++, Linux systems, Docker, and low-level debugging with GDB
 - ♟️ Chess strategist, always planning three moves ahead  
 - 🛡️ Founder of the **Cybersecurity Club @ 42 Porto**  
