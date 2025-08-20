@@ -23,9 +23,9 @@
 | Category | Skills |
 |----------|--------|
 | **Programming & Scripting** | C, C++, Bash |
-| **Operating Systems & Tools** | Linux, GDB, Valgrind, Git, GitHub Actions |
-| **Infrastructure & Automation** | Docker, Docker Compose, CI/CD, Terraform, Ansible, AWS |
-| **Security & System Hardening** | Secure system design, Linux auditing, monitoring |
+| **Cloud & Infrastructure** | AWS, Terraform, Ansible, Docker, Docker Compose, CI/CD, Serverless |
+| **Web & Databases** | Nginx, Apache, MySQL, MariaDB |
+| **Tools & Monitoring:** | Git, GitHub Actions, Grafana, Linux, GDB, Valgrind |
 | **Methodologies & Soft Skills** | Agile, Scrum, Problem-solving, Analytical thinking, Collaboration |
 
 ---
