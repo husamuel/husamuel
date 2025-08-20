@@ -121,5 +121,6 @@ I usually play with a strategy where I try to play low-risk moves and aim to gai
 - [GitHub](https://github.com/hugo4s)  
 - [LinkedIn](https://linkedin.com/in/hugo4s)  
 - hugoleonor10@gmail.com
+- [hugoleonor.com](https://www.hugoleonor.com/)
 
 ![github-user-contribution](https://user-images.githubusercontent.com/58959408/157782696-8bc9ca49-ca61-4ab5-8b83-49c4e76c1a8f.svg)
