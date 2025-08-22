@@ -20,47 +20,13 @@
 
 ## 🌟 Key Projects
 
-<table>
-<tr>
-<th>Project</th>
-<th>Description</th>
-<th>Tech Stack</th>
-</tr>
-<tr>
-<td><a href="https://github.com/husamuel/Inception">Inception</a></td>
-<td>Built a secure, containerized infrastructure with Nginx, WordPress, MariaDB, and Redis using Docker Compose.</td>
-<td>Docker, Nginx, WordPress, MariaDB, Redis, Shell Script</td>
-</tr>
-<tr>
-<td><a href="https://github.com/husamuel/Born2BeRoot-Linux-System-Administration">Born2BeRoot</a></td>
-<td>Configured a secure virtual machine with system administration and monitoring.</td>
-<td>Linux, Shell Script, VirtualBox</td>
-</tr>
-<tr>
-<td><a href="https://github.com/husamuel/SecureCheck-Linux">SecureCheck-Linux</a></td>
-<td>Developed a Linux security auditing tool that performs vulnerability checks and generates Markdown reports, with CI/CD automation and email reporting.</td>
-<td>Shell Script, Python, GitHub Actions, chkrootkit</td>
-</tr>
-<tr>
-<td><a href="https://github.com/hugo4s/minishell">Minishell</a></td>
-<td>Built a custom shell with command execution and process management.</td>
-<td>C, Linux, Shell</td>
-</tr>
-<td>Cybersecurity Club @ 42 Porto</td>
-<td>Founded a 35+ member community, hosting 5 industry talks and 15+ learning sessions.</td>
-<td>Community Leadership, Cybersecurity</td>
-</tr>
-</table>
-
----
-
-## 🖥️ System Administration / SysAdmin
 
 | Project | Description | Tech Stack |
-|---------|-------------|------------|
-| [Born2BeRoot](https://github.com/husamuel/Born2BeRoot-Linux-System-Administration) | Configured a secure Linux VM, managing users, permissions, services, and monitoring. | Linux, Shell Script, VirtualBox |
-| [SecureCheck-Linux](https://github.com/husamuel/SecureCheck-Linux) | Automated Linux security auditing tool with vulnerability checks and email alerts. | Shell Script, Python, GitHub Actions, chkrootkit |
-| [Inception](https://github.com/husamuel/Inception) | Deployed containerized services (Nginx, WordPress, MariaDB, Redis) with secure Docker infrastructure management. | Docker, Nginx, WordPress, MariaDB, Redis, Shell Script |
+|---------|-----------|------------|
+| [FastDeploy](https://github.com/husamuel/FastDeploy) | Automated API delivery pipeline: every commit triggers automated tests, Docker image builds, and push to Docker Hub. | Python, FastAPI, Docker, GitHub Actions, Pytest |
+| [Inception](https://github.com/husamuel/Inception) | Secure, containerized infrastructure with Nginx, WordPress, MariaDB, and Redis using Docker Compose. | Docker, Nginx, WordPress, MariaDB, Redis, Shell Script |
+| [SecureCheck-Linux](https://github.com/husamuel/SecureCheck-Linux) | Linux security auditing tool with automated checks, CI/CD automation, and email alerts. | Shell Script, Python, GitHub Actions, chkrootkit |
+| [Terraform + Ansible Infra](https://github.com/husamuel/Infrastructure-with-Terraform-and-Ansible) | Provisioned AWS infrastructure with Terraform and configured Nginx via Ansible. | Terraform, Ansible, AWS, EC2 |
 
 ---
 
