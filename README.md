@@ -23,9 +23,9 @@
 
 | Project | Description | Tech Stack |
 |---------|-----------|------------|
-| [FastDeploy](https://github.com/husamuel/FastDeploy) | Automated API delivery pipeline: every commit triggers automated tests, Docker image builds, and push to Docker Hub. | Python, FastAPI, Docker, GitHub Actions, Pytest |
+| [FastDeploy](https://github.com/husamuel/FastDeploy) | Automated CI/CD pipeline for fast API deployment, reducing lead time from days to minutes, with testing, Docker, and optional monitoring. | Python, FastAPI, Docker, GitHub Actions, Pytest |
+| QualityBoost | Automated CI/CD and monitoring pipeline to reduce development errors and increase software reliability, with testing, linting, and Grafana + Prometheus monitoring. | React, Jest, ESLint, Prettier, Docker, GitHub Actions, Grafana, Prometheus |
 | [Inception](https://github.com/husamuel/Inception) | Secure, containerized infrastructure with Nginx, WordPress, MariaDB, and Redis using Docker Compose. | Docker, Nginx, WordPress, MariaDB, Redis, Shell Script |
-| [SecureCheck-Linux](https://github.com/husamuel/SecureCheck-Linux) | Linux security auditing tool with automated checks, CI/CD automation, and email alerts. | Shell Script, Python, GitHub Actions, chkrootkit |
 | [Terraform + Ansible Infra](https://github.com/husamuel/Infrastructure-with-Terraform-and-Ansible) | Provisioned AWS infrastructure with Terraform and configured Nginx via Ansible. | Terraform, Ansible, AWS, EC2 |
 
 ---
