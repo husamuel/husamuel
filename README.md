@@ -45,8 +45,8 @@
 | Project | Description | Tech Stack |
 |---------|-------------|------------|
 | [Born2BeRoot](https://github.com/husamuel/Born2BeRoot-Linux-System-Administration) | Configured and secured a Linux VM with users, permissions, services, and monitoring. | Linux, Shell Script |
-| [SecureCheck Tool for Linux](https://github.com/husamuel/SecureAuditPlus) | Linux security auditing tool with vulnerability checks and Markdown reports. | Bash, Python |
-| [Minishell](https://github.com/husamuel/minishell) | Custom shell supporting command execution, redirection, and process management. | C, Linux |
+| [SecureCheck Tool for Linux](https://github.com/husamuel/SecureCheck-Linux) | Linux security auditing tool with vulnerability checks and Markdown reports. | Bash, Python |
+| [Minishell](https://github.com/husamuel/Minishell) | Custom shell supporting command execution, redirection, and process management. | C, Linux |
 
 ---
 
