@@ -25,8 +25,8 @@
 |---------|-----------|------------|
 | [FastDeploy](https://github.com/husamuel/FastDeploy) | Accelerated product launch by minimizing deployment time through automated testing, Docker containerization, and CI/CD pipelines, enabling rapid delivery of features and immediate developer feedback. | Python, FastAPI, Pytest, Docker, GitHub Actions |
 | [QualityBoost](https://github.com/husamuel/QualityBoost) | Automated CI/CD and monitoring pipeline to reduce development errors and increase software reliability, with testing, linting, and Grafana + Prometheus monitoring. | React, Jest, ESLint, Prettier, Docker, GitHub Actions, Grafana, Prometheus |
-| [Inception](https://github.com/husamuel/Inception) | Secure, containerized infrastructure with Nginx, WordPress, MariaDB, and Redis using Docker Compose. | Docker, Nginx, WordPress, MariaDB, Redis, Shell Script |
-| [Terraform + Ansible Infra](https://github.com/husamuel/Infrastructure-with-Terraform-and-Ansible) | Provisioned AWS infrastructure with Terraform and configured Nginx via Ansible. | Terraform, Ansible, AWS, EC2 |
+| [CostsOptimizer](https://github.com/husamuel/CostsOptimizer)| Elastic infrastructure with Kubernetes and autoscaling to reduce costs by up to 60%, ensuring scalability, performance, and efficient use of resources. | Python, Flask, Docker, Kubernetes, HPA, Terraform, k6 |
+| [Cloud Resume Challenge](https://github.com/husamuel/The-Cloud-Resume-Challenge-AWS) | Resume site with S3, Lambda, API Gateway, and full CI/CD. | AWS, Terraform, SAM, GitHub Actions |
 
 ---
 
