@@ -36,7 +36,7 @@
 |---------|-------------|------------|
 | [Cloud Resume Challenge](https://github.com/husamuel/The-Cloud-Resume-Challenge-AWS) | Resume site with S3, Lambda, API Gateway, and full CI/CD. | AWS, Terraform, SAM, GitHub Actions |
 | [Dev Env with Terraform](https://github.com/husamuel/AWS-Dev-Environment-with-Terraform) | Automated a full AWS dev environment with SSH access and Docker. | AWS, Terraform, EC2, SSH |
-| [Terraform + Ansible Infra](https://github.com/husamuel/Infrastructure-with-Terraform-and-Ansible) | Provisioned EC2 with Terraform and configured Nginx via Ansible. | Terraform, AWS, Ansible, EC2 |
+| [InfraAutomate](https://github.com/husamuel/InfraAutomate) | Provisioned EC2 with Terraform and configured Nginx via Ansible. | Terraform, AWS, Ansible, EC2 |
 
 ---
 
