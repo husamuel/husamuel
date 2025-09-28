@@ -18,10 +18,6 @@
 </tr>
 </table>
 
-
-## ♟️ Chess Strategy
-I focus on low-risk moves, gaining small advantages to outmaneuver opponents and force mistakes.
-
 ## 🔗 Connect with Me
 - [GitHub](https://github.com/hugo4s)  
 - [LinkedIn](https://linkedin.com/in/hugo4s)  
